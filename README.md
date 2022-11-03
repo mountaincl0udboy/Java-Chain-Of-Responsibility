@@ -10,6 +10,8 @@ The template is recommended for use in the following conditions:
 
 ## Successful authorization
 ![image](https://user-images.githubusercontent.com/85111590/199717480-57509e25-d91a-4422-bdb7-cf73816953ce.png)
+## User authorization
+![image](https://user-images.githubusercontent.com/85111590/199718661-08946eea-eff8-4b7a-a5b6-9db7822bfd24.png)
 ## Unsuccessful authorization
 ![image](https://user-images.githubusercontent.com/85111590/199718037-0c6716b6-6aec-4b52-9c84-433ec01e6c7a.png)
 
@@ -30,6 +32,8 @@ The template is recommended for use in the following conditions:
 
 ## Успешная авторизация
 ![image](https://user-images.githubusercontent.com/85111590/199717480-57509e25-d91a-4422-bdb7-cf73816953ce.png)
+## Авторизация пользователя
+![image](https://user-images.githubusercontent.com/85111590/199718661-08946eea-eff8-4b7a-a5b6-9db7822bfd24.png)
 ## Неудачная авторизация
 ![image](https://user-images.githubusercontent.com/85111590/199718037-0c6716b6-6aec-4b52-9c84-433ec01e6c7a.png)
 
